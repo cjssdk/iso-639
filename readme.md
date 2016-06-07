@@ -1,6 +1,7 @@
 ISO 639 language codes
 ======================
 
+[![Build Status](https://img.shields.io/travis/cjssdk/iso-639.svg?style=flat-square)](https://travis-ci.org/cjssdk/iso-639)
 [![NPM version](https://img.shields.io/npm/v/cjs-iso-639.svg?style=flat-square)](https://www.npmjs.com/package/cjs-iso-639)
 [![Dependencies Status](https://img.shields.io/david/cjssdk/iso-639.svg?style=flat-square)](https://david-dm.org/cjssdk/iso-639)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/cjssdk)
