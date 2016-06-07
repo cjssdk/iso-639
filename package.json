@@ -1,0 +1,35 @@
+{
+    "name": "cjs-iso-639",
+    "version": "0.1.0",
+    "description": "ISO 639 language codes.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cjssdk/iso-639.git"
+    },
+    "scripts": {
+        "lint": "eslint ./*.js",
+        "test": "node ./tests/main.js"
+    },
+    "dependencies": {
+        "langs": "1.*.*"
+    },
+    "devDependencies": {
+        "cjs-eslint-config": "cjssdk/eslint-config",
+        "mocha": "2.*.*",
+        "should": "9.*.*"
+    },
+    "keywords": [
+        "commonjs",
+        "sdk",
+        "cjssdk",
+        "framework",
+        "language",
+        "codes",
+        "iso-639"
+    ],
+    "license": "MIT"
+}
