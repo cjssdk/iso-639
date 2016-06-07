@@ -10,7 +10,7 @@ This library provides ISO language codes with English and local names.
 
  Code | Description
 ------|-------------
- 1    | 2 characters, one per language or [ISO 639 macrolanguage][wiki-macro]
+ 1    | 2 characters, one per language or [ISO 639 macrolanguage](http://en.wikipedia.org/wiki/ISO_639_macrolanguage)
  2T   | 3 characters, one per language
  2B   | 3 characters, mostly the same as 639-2T, but with some codes derived from English names rather than native names of languages
 
