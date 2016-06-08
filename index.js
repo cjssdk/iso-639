@@ -5,7 +5,7 @@
 
 'use strict';
 
-var langs = require('langs/data'),
+var langs = require('langs/data.json'),
     codes = {
         1:    {},
         '2T': {},
