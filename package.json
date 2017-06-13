@@ -1,6 +1,6 @@
 {
     "name": "cjs-iso-639",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "ISO 639 language codes.",
     "author": {
         "name": "Stanislav Kalashnik",
