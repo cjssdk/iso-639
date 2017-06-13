@@ -16,7 +16,7 @@
         "test": "npm run mocha && npm run lint"
     },
     "dependencies": {
-        "langs": "1.*.*"
+        "langs": "2.*.*"
     },
     "devDependencies": {
         "cjs-eslint-config": "1.*.*",

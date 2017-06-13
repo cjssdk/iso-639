@@ -26,8 +26,8 @@ describe('main', function () {
     });
 
     it('should pass: get items', function () {
-        (codes['1']['fr']).should.deepEqual(['French', 'français']);
-        (codes['2T']['fra']).should.deepEqual(['French', 'français']);
-        (codes['2B']['fre']).should.deepEqual(['French', 'français']);
+        (codes['1']['fr']).should.deepEqual(['French', 'Français']);
+        (codes['2T']['fra']).should.deepEqual(['French', 'Français']);
+        (codes['2B']['fre']).should.deepEqual(['French', 'Français']);
     });
 });
