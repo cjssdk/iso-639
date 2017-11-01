@@ -13,7 +13,8 @@
     "scripts": {
         "lint": "eslint .",
         "mocha": "node ./tests/main.js",
-        "test": "npm run mocha && npm run lint"
+        "test": "npm run mocha && npm run lint",
+        "jsdoc": "jsdoc --destination docs *.js readme.md"
     },
     "dependencies": {
         "langs": "2.*.*"
