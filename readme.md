@@ -6,7 +6,7 @@ ISO 639 language codes
 [![dependencies status](https://img.shields.io/david/cjssdk/iso-639.svg?style=flat-square)](https://david-dm.org/cjssdk/iso-639)
 [![devDependencies status](https://img.shields.io/david/dev/cjssdk/iso-639.svg?style=flat-square)](https://david-dm.org/cjssdk/iso-639?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/cjssdk)
-[![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://runkit.com/npm/cjs-iso-639)
+[![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://npm.runkit.com/cjs-iso-639)
 
 
 This library provides ISO language codes with English and local names.
