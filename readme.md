@@ -2,11 +2,11 @@ ISO 639 language codes
 ======================
 
 [![build status](https://img.shields.io/travis/cjssdk/iso-639.svg?style=flat-square)](https://travis-ci.org/cjssdk/iso-639)
-[![npm version](https://img.shields.io/npm/v/cjs-iso-639.svg?style=flat-square)](https://www.npmjs.com/package/cjs-iso-639)
+[![npm version](https://img.shields.io/npm/v/@cjssdk/iso-639.svg?style=flat-square)](https://www.npmjs.com/package/@cjssdk/iso-639)
 [![dependencies status](https://img.shields.io/david/cjssdk/iso-639.svg?style=flat-square)](https://david-dm.org/cjssdk/iso-639)
 [![devDependencies status](https://img.shields.io/david/dev/cjssdk/iso-639.svg?style=flat-square)](https://david-dm.org/cjssdk/iso-639?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/cjssdk)
-[![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://npm.runkit.com/cjs-iso-639)
+[![RunKit](https://img.shields.io/badge/RunKit-try-yellow.svg?style=flat-square)](https://npm.runkit.com/@cjssdk/iso-639)
 
 
 This library provides ISO language codes with English and local names.
@@ -21,7 +21,7 @@ This library provides ISO language codes with English and local names.
 ## Installation ##
 
 ```bash
-npm install cjs-iso-639
+npm install @cjssdk/iso-639
 ```
 
 
@@ -30,7 +30,7 @@ npm install cjs-iso-639
 Add to the scope:
 
 ```js
-var codes = require('cjs-iso-639');
+var codes = require('@cjssdk/iso-639');
 ```
 
 Use:
@@ -49,4 +49,4 @@ See [details](.github/contributing.md).
 
 ## License ##
 
-`cjs-iso-639` is released under the [MIT License](license.md).
+`@cjssdk/iso-639` is released under the [MIT License](license.md).

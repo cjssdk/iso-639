@@ -1,5 +1,5 @@
 {
-    "name": "cjs-iso-639",
+    "name": "@cjssdk/iso-639",
     "version": "1.0.2",
     "description": "ISO 639 language codes.",
     "author": {
@@ -9,6 +9,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/cjssdk/iso-639.git"
+    },
+    "publishConfig": {
+        "access": "public"
     },
     "scripts": {
         "lint": "eslint --ignore-pattern '/docs/' .",
@@ -20,10 +23,10 @@
         "langs": "2.*.*"
     },
     "devDependencies": {
-        "cjs-eslint-config": "1.*.*",
+        "@cjssdk/eslint-config": "1.*.*",
         "eslint": "4.*.*",
         "jsdoc": "3.*.*",
-        "mocha": "4.*.*",
+        "mocha": "5.*.*",
         "should": "13.*.*"
     },
     "keywords": [
