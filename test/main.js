@@ -15,7 +15,7 @@ var should = require('should'),
 
 describe('main', function () {
     it('should pass: 3 codes groups', function () {
-        should(Object.keys(codes).length).equal(2);
+        should(Object.keys(codes).length).equal(3);
     });
 
     it('should pass: group size match', function () {
