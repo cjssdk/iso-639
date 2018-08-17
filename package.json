@@ -12,7 +12,7 @@
     },
     "scripts": {
         "lint": "eslint --ignore-pattern '/docs/' .",
-        "mocha": "node ./tests/main.js",
+        "mocha": "mocha",
         "test": "npm run mocha && npm run lint",
         "jsdoc": "jsdoc --destination docs *.js readme.md"
     },

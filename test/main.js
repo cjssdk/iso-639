@@ -14,15 +14,18 @@ var should = require('should'),
 
 
 describe('main', function () {
-
     it('should pass: 3 codes groups', function () {
-        should(Object.keys(codes).length).equal(3);
+        should(Object.keys(codes).length).equal(2);
     });
 
     it('should pass: group size match', function () {
         var size = Object.keys(codes['1']).length;
 
         (Object.keys(codes['2T']).length === size && Object.keys(codes['2B']).length === size).should.equal(true);
+    });
+
+    it('should pass: group is not empty', function () {
+        Object.keys(codes['1']).length.should.be.greaterThan(0);
     });
 
     it('should pass: get items', function () {
